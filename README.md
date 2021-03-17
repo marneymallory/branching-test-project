@@ -16,7 +16,7 @@ This webpage was created to learn how to add different branches to a git reposit
 ## Setup/Installation Requirements
 
 - Clone this repository to your desktop.
-- Navigate to the top level of the director
+- Navigate to the top level of the directory
 - Open branching-website.html
 
 ## Known Bugs
